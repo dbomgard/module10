@@ -1,0 +1,25 @@
+.btn {
+    position: absolute;
+    width: 150px;
+    height: 70px;
+    align-items: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+      
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: lightblue;  
+    margin: auto;
+    font-size: 20px;
+}
+    
+.icon {
+    margin-top: 4px  
+}
+    
+.hidden {
+    display: none;
+}
